@@ -21,10 +21,7 @@ For this assignment, I implemented the A* search algorithm along with the Manhat
 ## Usage
 
 This code was designed to work within the Pacman AI framework used in the course. To execute the different search strategies, use the following commands:
-  ```shell
-  python pacman.py
 
-For example:
 ### Breadth-First Search (BFS)
 Breadth-First Search is an algorithm that searches a tree (or graph) by exploring neighbors before children. To try out the medium maze with BFS, run the command:
 ```shell
