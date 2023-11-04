@@ -51,9 +51,7 @@ python pacman.py -l mediumMaze -p SearchAgent -a fn=astar,heuristic=manhattanHeu
 Executing this will start the Pacman game where the agent uses your implemented A* search algorithm with the Manhattan distance as a heuristic to find the shortest path.
 
 Each of these commands will showcase the behavior of Pacman using different search strategies in a medium complexity maze. You can observe the path taken by Pacman and how quickly and efficiently it reaches the goal depending on the search strategy used.
-```python
-actions, visitedNodes, visitedCosts = aStarSearch(problem, manhattanHeuristic)
-```
+
 
 # Acknowledgments
 
